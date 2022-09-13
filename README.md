@@ -6,3 +6,5 @@ doing some analysis on data
 Editing in R
 
 Now I'm editing from github
+
+More text
